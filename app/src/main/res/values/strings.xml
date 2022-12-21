@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SprintUno</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="textView1">Primer Activity</string>
+    <string name="btnAnterior">Anterior</string>
+    <string name="textView2">Segundo Activity</string>
+</resources>
